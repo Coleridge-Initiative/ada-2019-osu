@@ -1,4 +1,8 @@
-# Applied Data Analytics
+# Applied Data Analytics - OSU 2019 Training Course
+
+
+[![DOI](https://zenodo.org/badge/185421796.svg)](https://zenodo.org/badge/latestdoi/185421796)
+
 
 Repository for the training program focused on Transitions in Education and Workforce.
 
